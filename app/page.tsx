@@ -8,21 +8,33 @@ export default function Home() {
           className="dark:invert"
           src="/next.svg"
           alt="Next.js logo"
-          width={180}
-          height={38}
+          width={1000}
+          height={900}
           priority
         />
-        <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
+        <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)] text-red-600">
           <li className="mb-2 tracking-[-.01em]">
             Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] font-semibold">
-              skibgidi ltoietlt
+            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] font-semibold text-blue-600">
+              hello
             </code>
             .
           </li>
           <li className="tracking-[-.01em]">
-            pamapraam
+            freddiefreddie
           </li>
+          <li className="tracking-[-.01em]">
+            alfiealfie 
+            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] text-red-500">
+              hello.
+            </code>
+            </li>
+          <li className="tracking-[-.01em]">
+            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] text-purple-400">
+              aliakanaan156yearolds
+            </code>
+          </li>
+
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
